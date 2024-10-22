@@ -13,3 +13,8 @@ body {
     header {
         background-color: rgb(177, 177, 199);
     }
+    
+    li {color: rgb(red, rgb(116, 143, 116), rgb(172, 172, 203))}
+    img {
+        height: 39%;
+    }
