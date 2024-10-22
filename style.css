@@ -31,7 +31,9 @@ body {
         font-style: italic;
         width:20%;
     }
-    .ul
+    .ul {
+        font-size: medium;
+    }
     .h1 {
         font-size: large;
         color: chartreuse;
