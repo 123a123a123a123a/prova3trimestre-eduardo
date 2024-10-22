@@ -26,3 +26,7 @@ body {
         display: flex;
         justify-content: center;
     }
+    .ul {
+        font-style: italic;
+        width:20%;
+    }
