@@ -10,3 +10,6 @@ body {
     .img {
         width: 30%;
     }
+    header {
+        background-color: rgb(177, 177, 199);
+    }
